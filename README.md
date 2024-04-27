@@ -4,7 +4,7 @@
 
 I'm a freelancer training in Front-End and Back-End. 
 
-![](https://komarev.com/ghpvc/?username=DiegoHerreraGre&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true&base=13000)
+![](https://komarev.com/ghpvc/?username=DiegoHerreraGre&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true&base=33454)
 
 
 I love using for development 😎 --> ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
