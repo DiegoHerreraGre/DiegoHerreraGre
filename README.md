@@ -19,9 +19,10 @@
 
 </div>
 
-<h3> I love using for development 😎 (yes, I'm crazy) </h3> 
+<h3> I love using for development 😎 </h3> 
 
-![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
 
 <h3> This are the Frameworks and dev. tools that I'm trained for: </h3>
 
