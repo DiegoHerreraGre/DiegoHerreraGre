@@ -15,7 +15,7 @@
 <h2> I'm a freelancer training in Front-End and Back-End </h2>
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) ![](https://komarev.com/ghpvc/?username=DiegoHerreraGre&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true&base=33454) 
-![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 </div>
 
