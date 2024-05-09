@@ -48,4 +48,6 @@
 
 <p align="left">
   <img width="auto" height="auto" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=diegoherreragre&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=diegoherreragre&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)">
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiegoHerreraGre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
