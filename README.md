@@ -46,5 +46,5 @@
 
 
 <p align="left">
-  <img width="auto" height="auto" src="https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=diegoherreragre&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=diegoherreragre&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f">
+  <img width="auto" height="auto" src="https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=diegoherreragre&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=diegoherreragre&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)">
 </p>
