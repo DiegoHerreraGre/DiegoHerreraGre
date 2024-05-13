@@ -8,6 +8,10 @@
   </tr>
 </p>
 
+<p align="center" >
+<a href="https://app.daily.dev/diegoherreragre"><img src="https://api.daily.dev/devcards/v2/GrS5Ikw0s9hmENomjdbYh.png?type=wide&r=elx" width="640" alt="Diego Herrera Gre's Dev Card"/></a>
+</p>
+
 <div align=center>
 
 <h1>HI EVERYONE!</h1>
