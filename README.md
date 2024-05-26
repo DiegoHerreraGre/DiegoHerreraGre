@@ -44,11 +44,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 70.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 130 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,21 +59,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                36 commits          ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-🌆 Daytime                42 commits          ████████░░░░░░░░░░░░░░░░░   31.58 % 
-🌃 Evening                50 commits          █████████░░░░░░░░░░░░░░░░   37.59 % 
-🌙 Night                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+🌞 Morning                36 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+🌆 Daytime                42 commits          ████████░░░░░░░░░░░░░░░░░   31.11 % 
+🌃 Evening                50 commits          █████████░░░░░░░░░░░░░░░░   37.04 % 
+🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Tuesday                  27 commits          █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Thursday                 42 commits          ████████░░░░░░░░░░░░░░░░░   31.58 % 
-Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Saturday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Sunday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Tuesday                  27 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Thursday                 42 commits          ████████░░░░░░░░░░░░░░░░░   31.11 % 
+Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Saturday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Sunday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 ```
 
 
@@ -111,7 +111,6 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoHerreraGre/DiegoHerreraGre/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2024 04:18:02 UTC
 <!--END_SECTION:waka-->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
