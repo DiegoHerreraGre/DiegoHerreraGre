@@ -101,8 +101,3 @@ Python                   1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 </div>
-
-
-<p align="left">
-  <img width="auto" height="auto" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=diegoherreragre&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=diegoherreragre&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)">
-</p>
