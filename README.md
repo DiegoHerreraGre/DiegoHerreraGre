@@ -37,7 +37,7 @@
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiegoHerreraGre\&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%207%20mins-blue)
 
 **I'm a Night 🦉** 
 
